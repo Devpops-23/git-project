@@ -1,1 +1,2 @@
-apt intall vim git -y
+apt install git -y
+apt install vim -y
